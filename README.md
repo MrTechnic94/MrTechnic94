@@ -21,10 +21,8 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ## 📊 GitHub Stats
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrTechnic94&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" style="width: 49%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTechnic94&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 49%;"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=MrTechnic94&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTechnic94&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mrtechnic94)
