@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I'm currently working on Kirby music bot<br>🌱 I'm currently learning Javascript and Rust<br>💬 Ask me about NodeJS, Mongodb, Redis
+👋 Hi, My name is Philip<br>🔭 I'm currently working on Kirby music bot<br>🌱 I'm currently learning Javascript and Rust<br>💬 Ask me about NodeJS, Mongodb, Redis
 
 
 ## 🌐 Socials
