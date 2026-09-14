@@ -1,3 +1,2 @@
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/586543379295240192)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/mrtechnic94)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)](https://signal.me/#eu/Fqttkahgr_7K1ce9vJL9871DcLpw_lwgePlXWXbwYl87X_2SMxtEUoN_d4N2iSX7)
